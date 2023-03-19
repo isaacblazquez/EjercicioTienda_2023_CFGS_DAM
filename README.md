@@ -8,7 +8,7 @@ exigidas en el enunciado de la practica.
 
 La aplicación web ofrece las siguientes funcionalidades:
 
-    - Permite que el usuario pueda comprar mas de un producto del mismo tipo.
+    - Permite que el usuario pueda **comprar mas de un producto** del mismo tipo.
     - Permite que el usuario pueda borar el producto de la cesta mediante el click en una imagen con una papelera.
     - Permite que se muestren las unidades compradas y los precios parciales y total una vez pulsado el boton comprar
     - Se crea una cookie que contiene la cesta y los productos.
